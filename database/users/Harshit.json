@@ -1,0 +1,11 @@
+{
+	"Name": "Harshit",
+	"Age": 20,
+	"Contact": "7845963254",
+	"Address": {
+		"City": "Bhopal",
+		"State": "Madhya pradesh",
+		"Country": "India",
+		"Pincode": 462022
+	}
+}

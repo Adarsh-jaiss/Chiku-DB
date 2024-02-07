@@ -1,0 +1,11 @@
+{
+	"Name": "Rohan",
+	"Age": 18,
+	"Contact": "3257459824",
+	"Address": {
+		"City": "Bhopal",
+		"State": "Madhya pradesh",
+		"Country": "India",
+		"Pincode": 462022
+	}
+}

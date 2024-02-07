@@ -1,0 +1,11 @@
+{
+	"Name": "Aakriti",
+	"Age": 21,
+	"Contact": "9054754126",
+	"Address": {
+		"City": "Bhopal",
+		"State": "Madhya pradesh",
+		"Country": "India",
+		"Pincode": 462022
+	}
+}

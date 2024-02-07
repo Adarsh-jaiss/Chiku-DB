@@ -1,0 +1,11 @@
+{
+	"Name": "Adarsh",
+	"Age": 20,
+	"Contact": "27478732732",
+	"Address": {
+		"City": "Bhopal",
+		"State": "Madhya pradesh",
+		"Country": "India",
+		"Pincode": 462022
+	}
+}

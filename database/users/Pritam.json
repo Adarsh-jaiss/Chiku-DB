@@ -1,0 +1,11 @@
+{
+	"Name": "Pritam",
+	"Age": 16,
+	"Contact": "7895412354",
+	"Address": {
+		"City": "Bhopal",
+		"State": "Madhya pradesh",
+		"Country": "India",
+		"Pincode": 462022
+	}
+}
